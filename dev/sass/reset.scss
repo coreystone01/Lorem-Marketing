@@ -15,14 +15,20 @@ img {
     max-width: 100%;
 }
 
-html, body{
+html,
+body {
     height: 100%;
 }
 
-a   {
+body    {
+    background-color: #9921e8;
+    background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
+}
+
+a {
     text-decoration: none;
 }
 
-ul  {
+ul {
     list-style-type: none;
 }
